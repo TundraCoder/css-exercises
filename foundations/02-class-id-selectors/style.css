@@ -1,0 +1,21 @@
+.class {
+    background-color: salmon;
+    font-size: 18px;
+    font-family: "DejaVu Sans" "sans-serif";
+}
+
+#one {
+    font-size: 40px;
+    font-weight: 700;
+    color: blue;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#another {
+    background-color: greenyellow;
+    font-size: 25px;
+    font-weight: 1000;
+}
